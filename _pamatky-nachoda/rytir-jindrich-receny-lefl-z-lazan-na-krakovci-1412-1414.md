@@ -1,0 +1,5 @@
+---
+title: rytíř Jindřich, řečený Lefl z Lažan na Krakovci. 1412 - 1414
+order: 12
+---
+kterýž je však dosti brzo opět prodal panu Bočkovi z Kunstátu a z Poděbrad; neboť král Václav prodej ten povolil a potvrdil zvláštní listinou, danou v Praze dne 14. ledna 1415. Dle památek zápisních byl tento trh vlastně směnou zboží Náchodského za hrad, řečený Bechyně, i s příslušenstvím jeho. Jindřich z Lažan (předek nynějších svobodných pánův Bechyní z Lažan), dvořan a miláček králův, r. 1414. královským hejtmanem ve Vratislavi, přistoupil záhy na stranu Husovu, a stal se mocným jeho podporovatelem; jakož jej z Prahy vypovězeného r. 1413. přechovával na hradě svém pevném Krakovci v Rakovnicku. Však jako prvé osobním byl přítelem Husovým, tak již r. 1419. připomíná se mezi úhlavními nepřátely Husitův, a v osudné oné bitvě proti Pražanům pod Vyšehradem dne 1. listopadu 1420 bojuje pod prápory krále Sigmunda smrtelně byl raněn, „a do stanu přinesen jsa pobožně skonal“ — tak dokládá svědek očitý. —

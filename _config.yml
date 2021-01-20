@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Severovýchod
+url:              https://severovychod.jaybee.cz/
+baseurl:
+
+author:
+  name:           'Pavel'
+  url:            https://severovychod.jaybee.cz/
+
+repository:       j123b567/j123b567.github.io
+
+collections:
+  pamatky-nachoda:
+    output: true
+    permalink: /pamatky-nachoda/:path/
+
+defaults:
+ - scope:
+     path: ""
+     type: pamatky-nachoda
+   values:
+     layout: page
