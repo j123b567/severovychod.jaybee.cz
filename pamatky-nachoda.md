@@ -20,6 +20,10 @@ někdy farář na Bohušíně, posléz na odpočinutí co oltářník ve Skalici
  Tiskem Lad. Pospíšila.
 </div>
 
+| Příloha | Velikost |
+|---------|----------|
+| [Památky Náchoda Ludvík.pdf]({{ site.baseurl }}/files/Pamatky Nachoda Ludvik.pdf)       | 2.0 MiB         |
+
 {% assign pages_list = site.pamatky-nachoda | sort:"order" %}
 
 {% for node in pages_list %}
