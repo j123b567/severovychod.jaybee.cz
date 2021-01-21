@@ -1,0 +1,10 @@
+---
+title: Josef Vojtěch, hrabě Desfours, 1786 - 1791
+order: 47
+---
+Po smrti Josefa Parille, knížete Piccolomini de Villa nuova r. 1783. znikl soud o dědictví Náchodské. — Právo k panství tomuto hájili: Josef Vojtěch, hrabě Desfours v Mont a Athienville, pán na Pruhonicích, Studnici a Lhotě Řešetově, vnuk knížete Vavřince Piccolomini z dcery jeho Lidmily, provdané za hraběte Maximiliana Desfours, jejíž bratr Octavio II. Piccolomini, poslední po meči, dne 25. ledna 1757 byl zemřel, — a Antonín vévoda de Monte Leone, svat či švagr zemřelého knížete Josefa Parille Piccolomini.
+
+Pře na několik roků se protáhla, až konečně panství Náchodské, nyní co zpupné či allodialní, přiřknuto hraběti Desfours. Slavně a hlučně uvítán byl na Náchod s manželkou svou Marií Annou dne 2. srpna 1787. — Šťastně sice vyhrál; snadno nabyl a lehce odbyl. Náruživý jsa milovník honby, hry a banketů, zadluživ se k tomu soudem, upadl do dluhů na půldruhého milionu. Za tou příčinou komise dne 22. pros. 1789 na Náchod přijela, všecko na zámku, ve dvořích a po panství vyšetřila, sepsala a pečetila; — panství dáno sekvestru, t. svěřeno důvěrníku od soudu zřízenému. Hrabě skonal v červnu 1791.
+
+V těch dobách čarovná Ruská Kateřina II. vedla válku s Turky od r. 1788., kteréž císař Josef ku pomoci přispěl; když pak se podobalo, že král Pruský Bedřich Vilém s Turky spojiti se zamýšlí, císař Josef po hranicích vojsko stahovati počínal, kteréž napotom císař Leopold rozmnožil tak, že na Moravě 84.000, v Čechách 53.000 a v Haliči 20.000 mužů soustředěno bylo; neboť i král Pruský znamenitou armádu ve Slezsku byl shromáždil. — Do Náchoda přibylo dne 19. a 20. května 1790 asi 1400 mužů, a sice od pluku jízdného arciknížete Františka a od pluku pěšího knížete Hohenlohe; na to v polou června pluk Varaždinský a oddělení myslivců hraběte Zinzendorf-a; i poleželo zde vojsko až do 17. srpna. Smlouva mezi císařem a králem Pruským v Reichenbachu uzavřena (v srpnu) a válka hrozící odstraněna. Té doby zemřel i slavný hrdina Laudon v hlavním stanu svém v Novém Jičíně na Moravě, stár 75 let.
+
