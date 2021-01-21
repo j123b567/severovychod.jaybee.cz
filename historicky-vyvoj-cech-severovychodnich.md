@@ -3,13 +3,14 @@ title: Historický vývoj Čech severovýchodních
 order: 20
 ---
 
+**Dr. J. V. ŠIMÁK:**
+# Historický vývoj Čech severovýchodních.
+
 | Příloha | Velikost |
 |---------|----------|
 | [Mapa velkostatků v severových. Čechách okolo roku 1400.png]({{ site.baseurl }}/files/Mapa velkostatku v severovych. Cechach okolo roku 1400.png)       | 2,1 MiB         |
 | [Historický vývoj Čech severovýchodních.pdf]({{ site.baseurl }}/files/Historicky vyvoj Cech severovychodnich.pdf)       | 793,9 KiB         |
 
-
-## Dr. J. V. ŠIMÁK: Historický vývoj Čech severovýchodních.
 
 (Od kladského pomezí, roč. IX, 1931/1932, s. 51–58, 81 – 86, 99 – 104, 114 – 117, 130 – 135.)
 
@@ -1273,8 +1274,3 @@ Pommerndorf, Nová Ves, Špindlerův mlýn až ke slezskému pomezí.
 
 
 **Šimák,** Josef Vítězslav, *15. 8. 1870 Turnov, †30. 1. 1941 Praha, český historik, představitel Gollovy školy, od roku 1921 profesor Karlovy Univerzity v Praze.
-
-| Příloha | Velikost |
-|---------|----------|
-| [Mapa velkostatků v severových. Čechách okolo roku 1400.png]({{ site.baseurl }}/files/Mapa velkostatku v severovych. Cechach okolo roku 1400.png)       | 2,1 MiB         |
-| [Historický vývoj Čech severovýchodních.pdf]({{ site.baseurl }}/files/Historicky vyvoj Cech severovychodnich.pdf)       | 793,9 KiB         |

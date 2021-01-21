@@ -10,8 +10,6 @@ order: 50
 <style type="text/css">
     .hory p, .hory li, .hory div {
         margin: 0;
-        font-size: 11.0pt;
-        font-family: serif;
     }
 
     .hory ol {
@@ -58,11 +56,6 @@ order: 50
     p.c99 {
         margin-left: 1.0cm;
         text-indent: -14.2pt;
-    }
-
-    p.c98 {
-        margin-left: 1.0cm;
-        text-indent: -14.15pt;
     }
 
     table.c94 {
@@ -154,10 +147,10 @@ order: 50
     }
 
     td.column-note {
-        width: 200pt;
+        width: 20%;
         padding: 0 5.4pt 0 5.4pt;
         text-align: left;
-        font-size: 10pt;
+        font-size: smaller;
     }
 
     td.column-note p {
@@ -169,17 +162,15 @@ order: 50
     td.column-text {
         text-align: justify;
         padding: 0 5.4pt 0 5.4pt;
-        font-size: 12pt;
     }
 
     td.column-page {
         width: 33.75pt;
         padding: 0 5.4pt 0 5.4pt;
         font-weight: bold;
-        font-size: 12pt;
     }
 
-    table tr:nth-child(2n) {
+    tbody tr:nth-child(odd) th, tbody tr:nth-child(odd) td {
         background: none !important;
     }
 </style>
@@ -231,8 +222,7 @@ order: 50
         <tr>
             <td class='column-page'></td>
             <td class='column-text'>
-                <p class="center"><img alt="" width="477" height="214"
-                                       src="{{ site.baseurl }}/images/po-horach/image003.jpg"></p>
+                <p class="center"><img alt="" src="{{ site.baseurl }}/images/po-horach/image003.jpg"></p>
             </td>
             <td class='column-note'></td>
         </tr>
@@ -2655,8 +2645,8 @@ order: 50
         <tr>
             <td>
                 <p class="c90">Karpacz gorny</p>
-                <p class="c98">schronisko Bronisława Czecha † (Stara Polana)</p>
-                <p class="c98">Polední kameny, Pielgrzymy, Kotki</p>
+                <p class="c99">schronisko Bronisława Czecha † (Stara Polana)</p>
+                <p class="c99">Polední kameny, Pielgrzymy, Kotki</p>
             </td>
             <td>
                 <p class="c90">Strzecha Akademicka</p>
@@ -2814,8 +2804,3 @@ order: 50
 52. VELINSKÝ, Frederik: *Krkonoše*: *Kamenný kruh u pramenů Labe*. ČESKÝ ROZHLAS SEVER, Planetárium. Dostupné z: [http://www.rozhlas.cz/planetarium/tajemnamista/_zprava/krkonose-kamenny-kruh-u-pramenu-labe--428996](http://www.rozhlas.cz/planetarium/tajemnamista/_zprava/krkonose-kamenny-kruh-u-pramenu-labe--428996)
 53. *VOM OYBIN BIS ZUR SCHNEEKOPPE, 1 : 100&nbsp;000*. 4. Auflage. Honzejk &amp; Mates, Gablonz a.N.
 54. WIKOREJCZYK, Marek Kazimierz: *U stóp Śnieżki - wybrane opowiadania krajoznawcze. Z Górnego Karpacza na Polanę.* Sudety, Wrocław 1998. Dostupné z: [http://www.muzyczneradio.com.pl/324,artykul,z-gornego-karpacza-na-polane.html](http://www.muzyczneradio.com.pl/324,artykul,z-gornego-karpacza-na-polane.html)
-
-
-| Příloha | Velikost |
-|---------|----------|
-| [Myslimir. po horach krkonosskych putujici.pdf]({{ site.baseurl }}/files/Myslimir. po horach krkonosskych putujici.pdf)       | 6,3 MiB         |

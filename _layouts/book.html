@@ -1,0 +1,50 @@
+---
+layout: default
+---
+{% assign pages_list = site.pamatky-nachoda | sort:"order" %}
+{% assign page_urls = pages_list | map: "url" %}
+{% for i in (0..pages_list.size) %}
+{%   if pages_list[i].url == page.url %}
+{%     if i > 0 %}
+{%        assign prev_i = i | minus: 1 %}
+{%        assign previous = pages_list[prev_i] %}
+{%     endif %}
+{%     if i < pages_list.size %}
+{%        assign next_i = i | plus: 1 %}
+{%        assign next = pages_list[next_i] %}
+{%     endif %}
+{%   endif %}
+{% endfor %}
+
+<div class="page-links clear-block">
+    {% if previous %}
+      <a class="page-links-prev" href="{{previous.url}}">‹ {{ previous.title }}</a>
+    {% else %}
+      <span class="page-links-prev">‹ Předchozí</span>
+    {% endif %}
+    <a class="page-links-up" href="{{ site.baseurl }}/pamatky-nachoda/">Obsah</a>
+    {% if next %}
+      <a class="page-links-next" href="{{next.url}}">{{ next.title }} ›</a>
+    {% else %}
+      <span class="page-links-next">Další ›</span>
+    {% endif %}
+</div>
+
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+</div>
+
+<div class="page-links clear-block">
+    {% if previous %}
+      <a class="page-links-prev" href="{{previous.url}}">‹ {{ previous.title }}</a>
+    {% else %}
+      <span class="page-links-prev">‹ Předchozí</span>
+    {% endif %}
+    <a class="page-links-up" href="{{ site.baseurl }}/pamatky-nachoda/">Obsah</a>
+    {% if next %}
+      <a class="page-links-next" href="{{next.url}}">{{ next.title }} ›</a>
+    {% else %}
+      <span class="page-links-next">Další ›</span>
+    {% endif %}
+</div>

@@ -1,0 +1,89 @@
+.page p {
+    text-align: justify;
+}
+
+.footnotes {
+    font-size: smaller;
+    font-style: italic;
+}
+
+.footnotes > ol {
+    list-style: none;
+    counter-reset: footnote-counter;
+    margin: 0;
+    padding: 0;
+}
+
+.footnotes > ol > li {
+    counter-increment: footnote-counter;
+    display: flex;
+}
+
+.footnotes > ol > li:before {
+    content: counter(footnote-counter);
+    font-size: smaller;
+    margin-right: 0.5rem;
+    vertical-align: super;
+}
+
+.page ol {
+    list-style-type: decimal;
+}
+
+.page ol ol {
+    list-style-type: lower-alpha;
+}
+
+.page ol ol ol {
+    list-style-type: lower-roman;
+}
+
+.page ol ol ol ol {
+    list-style-type: decimaln;
+}
+
+.page-links {
+    border-top: 1px solid #888;
+    border-bottom: 1px solid #888;
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+
+.page-links-prev {
+    text-align: left;
+    width: 42%;
+    display: block;
+    float: left;
+}
+
+.page-links-up {
+    float: left;
+    display: block;
+}
+
+.page-links-next {
+    text-align: right;
+    width: 42%;
+    display: block;
+    float: right;
+}
+
+.clear-block {
+    display: block;
+}
+
+.clear-block:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.sidebar-about h1 {
+    font-size: 2.5rem;
+}
+
+html {
+    font-family: "PT Serif", serif;
+}

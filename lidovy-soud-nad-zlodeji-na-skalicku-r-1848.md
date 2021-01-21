@@ -2,12 +2,14 @@
 title: Lidový soud nad zloději na Skalicku r. 1848
 order: 30
 ---
+**Dr. Vácslav Řezníček:**
+# Lidový soud nad zloději na Skalicku r. 1848
 
 | Příloha | Velikost |
 |---------|----------|
 | [Lidový soud 1848.pdf]({{ site.baseurl }}/files/Lidovy soud 1848.pdf)       | 238,5 KiB         |
 
-**Dr. Vácslav Řezníček:**
+
 
 Metternichovo státnické umění konečně tak se přežilo, že vládní jeho systém zůstával bez moci a vlivu i v odlehlé podhorské krajince, již obýval zbožný, tichý a poslušný český lid. Toho dokladem bylo na úpatí Krkonošů a hor Žaltmanských rozprostírající se Skalicko, kde pak následkem toho došlo k nejhroznějším výstupům, jaké se též i v nejklidnějším kraji mohou vyskytnouti, začne-li lid sám souditi. Jest to kus úžasné a kruté historie ze života a citu českého lidu. Aby časem ve mnohém v zapomenutí nevešla, vyličuji ji přesně historicky, a sice pragmaticky a podrobně jednak dle sdělení účastníků a očitých svědků, od nichž jsem o výstupech těch vyprávěti slýchával, jednak dle zápisů v pamětních knihách a farních matrikách na Skalicku.
 

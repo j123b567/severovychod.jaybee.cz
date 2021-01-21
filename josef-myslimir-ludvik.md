@@ -3,6 +3,8 @@ title: Josef Myslimír Ludvík
 order: 10
 ---
 
+# Josef Myslimír Ludvík
+
 <figure>
   <img src="{{ site.baseurl }}/images/ludvik.png" alt="Josef Myslimír Ludvík" />
   <figcaption>J. M. Ludvík, portrét od neznámého malíře</figcaption>

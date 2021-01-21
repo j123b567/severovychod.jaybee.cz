@@ -4,7 +4,7 @@ order: 40
 ---
 <div markdown="1" style="text-align: center">
 
-## Památky hradu, města a panství Náchoda, i vlastníkův jeho.
+# Památky hradu, města a panství Náchoda, i vlastníkův jeho.
 
 Sepsal
 

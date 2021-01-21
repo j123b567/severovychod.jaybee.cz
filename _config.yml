@@ -26,4 +26,4 @@ defaults:
      path: ""
      type: pamatky-nachoda
    values:
-     layout: page
+     layout: book
