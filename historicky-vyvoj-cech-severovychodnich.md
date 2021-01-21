@@ -1108,7 +1108,7 @@ pomezí česko-slezského, jež se potom již podstatně neproměnilo[^50].
     z Náchoda jinak z Abrspachu na Č. Hoře s Hynkem mladším, bratrem svým nedílným, daroval kostelu roč. plat 5 kop na
     vsi Všelibech, aby za to buď plebán nebo jeho vikář četl každý týden 3 mše za spásu dárcovu a jeho rodu a 4 zádušní
     do roka, sedm v den 10.000 rytířů (22. června), ostatní o suchých dnech. (Kn. erekční V. 720 č. 984). — R. 1407,
-    17. června plebán si vymanil kostelní mlýn s rolemi s vrchností, jež mu dala za ně dvůr s dvojím lánem polí, ležící
+    17\. června plebán si vymanil kostelní mlýn s rolemi s vrchností, jež mu dala za ně dvůr s dvojím lánem polí, ležící
     blíže kostela mezi poli zádušními, třikrát neb dokonce čtyřikrát lepšími, což konsistoř pražská, svěřivši vyšetření
     děkanovi dobrušskému, Petru, plebánu na Dobeníně, r. 1409 schválila (tamže 744 č. 1024). — R. 1408 týž Hynek dává
     kostelu 1 kopu úroků ve Mštětíně a Stolíně (tamže VIII. E9). 

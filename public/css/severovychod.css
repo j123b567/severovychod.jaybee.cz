@@ -8,7 +8,7 @@
 }
 
 .footnotes > ol {
-    list-style: none;
+    list-style: none !important;
     counter-reset: footnote-counter;
     margin: 0;
     padding: 0;
@@ -16,14 +16,14 @@
 
 .footnotes > ol > li {
     counter-increment: footnote-counter;
-    display: flex;
 }
 
 .footnotes > ol > li:before {
     content: counter(footnote-counter);
     font-size: smaller;
-    margin-right: 0.5rem;
+    margin-left: -1.5rem;
     vertical-align: super;
+    float: left;
 }
 
 .page ol {

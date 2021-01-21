@@ -2,7 +2,12 @@
 title: Památky Náchoda
 order: 40
 ---
-<div markdown="1" style="text-align: center">
+<style>
+.center, .center p{
+ text-align: center;
+}
+</style>
+<div markdown="1" class="center">
 
 # Památky hradu, města a panství Náchoda, i vlastníkův jeho.
 

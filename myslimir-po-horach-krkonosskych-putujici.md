@@ -50,7 +50,7 @@ order: 50
     }
 
     .center {
-        text-align: center;
+        text-align: center !important;
     }
 
     p.c99 {
@@ -149,7 +149,7 @@ order: 50
     td.column-note {
         width: 20%;
         padding: 0 5.4pt 0 5.4pt;
-        text-align: left;
+        text-align: left !important;
         font-size: smaller;
     }
 
@@ -157,6 +157,7 @@ order: 50
         margin-bottom: 6.0pt;
         margin-left: 15.9pt;
         text-indent: -15.9pt;
+        text-align: left !important;
     }
 
     td.column-text {
