@@ -1,6 +1,6 @@
 ---
 title: Hynek a Ješek (Jan) bratři z Dubé a z Náchoda
-order: 10
+order: 11
 ---
 Zboží Náchodské přešlo po smrti Hajmanově na syny jeho, Hynka a Ješka z Náchoda.
 Ve dskách dvorských zachoval se zápis, který v nedůstatku jiných památek aspoň poněkud

@@ -1,6 +1,6 @@
 ---
 title: Jiří Poděbradský, správce království Českého. 1456 - 1458
-order: 20
+order: 21
 ---
 Ve záhubném pro Čechy roku 1420. dne 23. dubna narodil se v Hořovicích — **Jiří Poděbradský**, slavný napotom správce a konečně král Český. Otec jeho Viktorin z Kunstatu a z Poděbrad, zemřelý v mladém věku dne 1. ledna 1427, matka Anna, dcera pana Jana z Vartenberka; — Pan Jiří, syn horlivého husity a přítele Žižkova, kterýž byl udatně stál ve všech bojích ku straně Táborské a Pražan, ovšem již z mládí lnul ku straně kališnické; však události, které v ten čas hýbaly vlastí, tak mocně působily na vyvinutí se bystrého panice, že sotva 141etého vidíme již s lidem svým v památné bitvě u Lipan (30. máje 1434), ano od té doby na sjezdech a sněmích zemských se účastnil, a nezadlouho i převahy nabyl. Tak hned r. 1435. bylť mezi poslanci, zvolenými na sněmu Českém ku sjezdu v Brně, r. 1437. od císaře Sigmunda jmenován kmetem soudu zemského. Po smrti Sigmundově nepřál králi Albrechtovi, ale stál při králi polském, jakož i r. 1438. svedl bitvu s jizdou Albrechtovou, a že svítězil, odsud u Čechův vzat jest na slovo. —
 

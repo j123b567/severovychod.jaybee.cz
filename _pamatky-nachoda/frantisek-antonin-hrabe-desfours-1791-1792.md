@@ -1,6 +1,6 @@
 ---
 title: František Antonín, hrabě Desfours. 1791 - 1792
-order: 48
+order: 49
 ---
 Připadlo sice jemu panství Náchodské; že pak dluhy nesmírné vyplatiti nemohl, připustiti musel dražbu veřejnou, ve kteréž za 1,222.000 zl. přešlo v majetek Petra, knížete Kuronského.
 

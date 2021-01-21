@@ -1,6 +1,6 @@
 ---
 title: Dětřich či Jindřich z Janovic. 1390 - 1412
-order: 11
+order: 12
 ---
 \[Dodatek: **Anežka**, vévodkyně **Svidnická** (dcera Leopolda, vévody Rakouského, od.r. 1368. co vdova Boleslava IV., vévody Svidnického, v držení měst Trutnova a Dvoru Králové až do smrti své r. 1392.) r. 1377. připomíná se co paní podací v **Hronově**; snad že byla i paní na Náchodě (?); — a když pan **Póta** z **Častolovic**, pán na Častolovicích, Richmberku, Skuhrově, Opočně a j. r. 1390. podal faráře v **Hronově** a r. 1391. oltářníka v **Náchodě**, pravdě podobno, že i on vládl zbožím Náchodským před Jetřichem z Janovic, jehož r. 1390. v Levíně co podacího známe. — ]
 

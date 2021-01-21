@@ -1,6 +1,6 @@
 ---
 title: Petr, vévoda Kuronský a Zahaňský. 1792 - 1800
-order: 49
+order: 50
 ---
 Předešleme tu zprávy rodní. Arnošt Jan z Biron, vévoda Kuronský,[^130] byl syn statkáře Kuronského, jménem Bühren, a narodil se r. 1687. Mravův uhlazených a rozumu bystrého, stal se miláčkem Anny, vdovy — vévodkyně Kuronské, neteře cara ruského Petra I. z bratra jeho Ivana; však stavové Kuronští do šlechty přijmouti jej nechtěli. Když pak Anna po smrti cara Petra II. r. 1730. nastoupila trůn Ruský, povýšila milce svého i v důvěře i v moci, který nyní přijal jméno a znak francouzských vévod z Biron, silnou ale i tvrdou rukou veda vládu carství Ruského; načež r. 1737. z donucení carovny Anny od stavův Kuronských zvolen za vévodu této země. Anna, r. 1740. zemřevší, ustanovila za nástupce Ivana, sestřence svého, Birona za vladaře; ale v několika již dnech svržen od polního maršála Münicha, uvězněn, k vyhnanství věčnému odsouzen a do Sibiře poslán i s rodinou svou. Násilným převratem hned r. 1741. za carovnu povýšena Alžběta, dcera Petra I., kteráž dne 20. pros. 1741 Birona zpět povolala, do vězení pak jeho Municha odsoudila. V Kazani setkaly se saně obou; poznali se, ale slova nepromluvivše, cestou další se brali. Biron nyní obýval v Jaroslavi dosti příjemně, až jemu r. 1763. od carovny Kateřiny II. vévodství Kuronské bylo vráceno, kteréž spravoval moudře a mírně. Roku 1769. postoupil vládu nejstaršímu synu Petrovi, načež dne 28. pros. 1772 život svůj dokonal.
 

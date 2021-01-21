@@ -1,6 +1,6 @@
 ---
 title: Ješek z Náchoda
-order: 7
+order: 8
 ---
 Ješek z Náchoda, nejsnáze Hronův syn, a syn jeho Ješek hrad, město a zboží své Náchodské směnili s Janem,
 králem Českým, za Kostelec

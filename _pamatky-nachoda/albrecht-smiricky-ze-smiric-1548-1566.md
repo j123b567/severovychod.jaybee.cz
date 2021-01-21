@@ -1,6 +1,6 @@
 ---
 title: Albrecht Smiřický ze Smiřic. 1548 - 1566
-order: 29
+order: 30
 ---
 Zdá se, že synové p. Sigmunda nějaký čas nedílně vládli statky otcovskými; aspoň to nasvědčuje zápis tento: Léta 1550., jakož „J. Mt. uroz. p. Sigmund ze Smiřic, dobré paměti, dáti ráčil uroz. p. Hanuši. Brodinskému z Brodějovic „sbor“ i s tou zahradou při něm[^53]  ku pravému a dědičnému užívání; to nyní i J. Mti p. p. Jaroslav, Albrecht a Jindřich, bratři vlastní Smiřičtí, dáti a potvrditi ráčili.“
 

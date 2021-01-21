@@ -1,6 +1,6 @@
 ---
 title: Pozdvižení selské r. 1775.
-order: 45
+order: 46
 ---
 Sotva že minula drahota, a s ní hlad i přímorek, někteří zlomyslníci podněcovati se jali lid selský proti vrchnostem za příčinou robot a jiných povinností služebních. Hned r. 1773. předloženy byly císařovně Marii Teresii stížnosti jménem lidu od vrchnosti utlačovaného, v nichž prošeno o zmenšení břemen robotních. Vrchnosti naproti tomu předkládali, že zmenšení aneb zrušení robot pro ně byloby záhubou. V zniklé takto při dán zákon (generale) 21. dubna 1774 ustanovující, aby do konečného vynešení všecky povinnosti dle řádu starého se vykonávaly; neboť záležitost ta odevzdána byla zvláštní komisi urbarní. V říjnu 1774. rozeslala správa zemská jakés pravidlo (regulativum), dle kterého prozatímně roboty spořádány býti měly až do konečného vyrovnání od komise urbarní. — Takovéto zatímní opatření (provisorium) přijmouti a veřejně lidu prohlásiti nezdálo se úřadům vrchnostenským, namítajícím, žeby odtud zniknouti mohlo zbouření obecné. Však se toho neubáli. —
 

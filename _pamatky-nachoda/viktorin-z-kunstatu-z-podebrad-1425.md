@@ -1,6 +1,6 @@
 ---
 title: Viktorin z Kunstatu a z Poděbrad, 1425
-order: 15
+order: 16
 ---
 Viktorin z Kunstatu a z Poděbrad, --1427-- 1425
 

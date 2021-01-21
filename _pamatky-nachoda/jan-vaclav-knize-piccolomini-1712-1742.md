@@ -1,6 +1,6 @@
 ---
 title: Jan Václav, kníže Piccolomini. 1712 - 1742
-order: 41
+order: 42
 ---
 Jan Václav, syn nejstarší, pokřtěný v chrámu Páně Náchodském dne 30. července 1695, dědil panství za 311.116 zl., a že byl nezletilý a na smyslech slabý, odevzdána správa panství matce jeho Anně Viktorii, jíž také dne 8. listopadu 1712 věrnost slibována. — Navrátiv se kníže Jan z ciziny v červnu 1718., chtěl samovolně panovati; poněvadž ale trudná a pomatená mysl jeho přecházela časem i v šílenost ba třeštivost, dne 19. listop. 1720 přijela komissí krajská s jízdectvem na hrad Náchodský, kteráž vládu panství až do r. 1732. opět odevzdala kněžně vdově, o knížeti pak mladém vyřkla, by on k uvarování všeho zlého a za příčinou vykonaných nesmyslností a zpáchaných ukrutností v pokoji hlídán byl od služebníků domácích, maje v společnosti dva mnichy pro útěchu duchovní, a lékaře; odstraněny však museli býti všecky nástroje i zbraň, jimiž by mohl raniti. — Neboť tak jedenkráte kázal služebníkům na pavlač zámeckou vytáhnouti děla, aby město rozstřílel. Roku 1720. vraceje se z Chebu, poranil poddaného p. Udrckého, jehož s 170 zl. odškoditi musil, a r. 1721. ubil vlastního dvormistra svého Jungblut-a, jemuž přiřknuta náhrada 600 zl.
 

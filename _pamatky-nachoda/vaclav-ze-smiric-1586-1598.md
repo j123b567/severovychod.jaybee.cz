@@ -1,6 +1,6 @@
 ---
 title: Václav ze Smiřic.  1586 - 1598
-order: 31
+order: 32
 ---
 Léta jinošská, ztrávil na učení v Itálii a v službě arcivévody Karla Štýrského, vrátiv se pak, v manželslví vstoupil r. 1587. s Dorotou, dcerou Otakara Holického ze Šternberka a na Leštně, s kterou zplodil syna Albrechta Václava a dceru Kateřinu, napotom provdanou za p. Rudolfa ze Stubenberka na Novém Městě Hradišti nad Metují.
 

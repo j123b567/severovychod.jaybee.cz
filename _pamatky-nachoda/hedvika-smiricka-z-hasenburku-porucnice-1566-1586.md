@@ -1,6 +1,6 @@
 ---
 title: Hedvika Smiřická z Hasenburku, poručnice 1566 - 1586
-order: 30
+order: 31
 ---
 Vrchní poručenství nad sirotky páně Albrechtovými přijal bratr jeho Jaroslav ze Smiřic na Kostelci černém, správu panství Náchodského a Škvoreckého vedla však vdova Hedvika takovou obezřelostí a svědomitostí, že mimo jiné zboží Náchodské rozšířila statkem Skalickým a Ratibořickým. Roku totiž 1575. od Jiřího Otmara z Holohlav přikoupila za 500 kop gr. (?) Skalici malou, totiž: tvrz s pivovarem, dvorem poplužním, mlýnem, dvory kmetcími[^54] ; téhož roku od paní Elišky z Dohalic, manželky Protivce z Karlova (a dříve Votíka Straky z Nedabylic) dvůr kmetcí ve vsi Skaličce; a r. 1582. od Magdaleny z Nestájova, manželky Adama z Kounic a z Újezdce, Ratibořice za 8500 kop gr., totiž: Ratibořice dvůr poplužní s mlýnem, a vsi: Lhotu pod Hořičkami, Chlistov, Křižanov, Zábrodí. —
 

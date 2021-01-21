@@ -1,6 +1,6 @@
 ---
 title: Hron z Náchoda
-order: 6
+order: 7
 ---
 Za mocného panování bojovného i nádherného Přemysla Otakara II., krále Českého,
 který od moře adriatského na jihu až po baltické na severu vládl, byltě na Náchodě věhlasný

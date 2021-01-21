@@ -1,6 +1,6 @@
 ---
 title: Jan mladší Špetle z Prudic a Žlebův, později z Janovic  1497 - 1532
-order: 23
+order: 24
 ---
 Brzo po nastoupení jeho město Náchod od krále Vladislava obdarováno bylo druhým jarmarkem, načež dán list následující:[^48]
 

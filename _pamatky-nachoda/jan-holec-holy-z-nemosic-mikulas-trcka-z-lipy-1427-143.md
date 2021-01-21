@@ -1,6 +1,6 @@
 ---
 title: Jan Holec (Holý, z Nemošic) a Mikuláš Trčka z Lípy. 1427 - 143?
-order: 17
+order: 18
 ---
 Roku 1427. zboží Náchodské a Homolské přešlo v držení Jana Holýho[^28], řečeného
 Holec (panoše z Nemošic) a Mikuláše Trčky z Lípy, obou horlivých stoupencův Táborských,

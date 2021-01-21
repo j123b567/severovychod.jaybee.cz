@@ -1,6 +1,6 @@
 ---
 title: Hajman (Hejman) či Hynek z Dubé
-order: 9
+order: 10
 ---
 V listině Dobrušské od r. 1320. co svědek jmenován pan Hynek z Fridlandu, odkudž
 lze souditi, že teprv později panství Náchodské na Hynka, či Hajmana z Dubé od krále Jana

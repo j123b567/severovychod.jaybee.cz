@@ -1,6 +1,6 @@
 ---
 title: Josef Vojtěch, hrabě Desfours, 1786 - 1791
-order: 47
+order: 48
 ---
 Po smrti Josefa Parille, knížete Piccolomini de Villa nuova r. 1783. znikl soud o dědictví Náchodské. — Právo k panství tomuto hájili: Josef Vojtěch, hrabě Desfours v Mont a Athienville, pán na Pruhonicích, Studnici a Lhotě Řešetově, vnuk knížete Vavřince Piccolomini z dcery jeho Lidmily, provdané za hraběte Maximiliana Desfours, jejíž bratr Octavio II. Piccolomini, poslední po meči, dne 25. ledna 1757 byl zemřel, — a Antonín vévoda de Monte Leone, svat či švagr zemřelého knížete Josefa Parille Piccolomini.
 

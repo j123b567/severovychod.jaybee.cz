@@ -1,6 +1,6 @@
 ---
 title: Přehled stručný všech známých držitelův někdejšího panství Náchodského.
-order: 5
+order: 6
 ---
 Panství Náchodské, obsahovavší 6½ □ míle, vzrostlo během pěti století z kolikerých
 větších menších panství a statků, jejichžto objem, zvláště za příčinou konfiskace dvojí v XV.

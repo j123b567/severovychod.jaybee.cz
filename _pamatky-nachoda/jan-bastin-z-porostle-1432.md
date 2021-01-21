@@ -1,6 +1,6 @@
 ---
 title: Jan Baštín z Porostlé. 1432
-order: 18
+order: 19
 ---
 Jan Baštín připomíná se v listu vojenského řízení Žižkova; bylť tedy z podhejtmanův
 Žižkových a četných napotom vůdcův strany Táborské a Sirotčí; i nelze pochybovati, že on

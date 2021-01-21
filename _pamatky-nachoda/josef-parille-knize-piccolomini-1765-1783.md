@@ -1,6 +1,6 @@
 ---
 title: Josef Parille kníže Piccolomini. 1765 - 1783
-order: 44
+order: 45
 ---
 Po smrti knížete Jana Pompeja vdova jeho Marketa Kateřina ustanovena za poručnici, až kníže Josef plnoletým prohlášen dne 5. srpna 1771; pročež za těchto šest let odváděno ročně 40.000 zl. i více do pokladnice sirotčí a na splácení dluhů. Oddán byl s Marií Christinou, kněžnou Caraccioli, vedl život mrzký, jak to i podobizna jeho na zámku ukazuje, a zemřel bezdětek v Neapoli dne 6. července 1783, poslední to Piccolomini. — Vdova jeho po delší čas obývala Ratibořice; vidouc pak, že panství nepřipadne jí, do Neapole odstěhovala se, kdež asi r. 1825. u vysokém stáří skonala. —
 

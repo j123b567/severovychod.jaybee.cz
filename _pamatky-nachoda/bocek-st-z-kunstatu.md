@@ -1,6 +1,6 @@
 ---
 title: Boček st. z Kunstatu
-order: 14
+order: 15
 ---
 Z listu tržního králem ztvrzeného, a v archivu Olešnickém ve Slezsku zachovaného
 seznáváme tehdejší, ovšem skrovný, objem panství Náchodského, totiž: hrad a město Náchod,

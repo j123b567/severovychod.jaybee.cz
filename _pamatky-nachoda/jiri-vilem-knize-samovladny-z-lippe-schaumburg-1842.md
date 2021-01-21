@@ -1,6 +1,6 @@
 ---
 title: Jiří Vilém, kníže samovladný z Lippe-Schaumburg. 1842 -
-order: 53
+order: 54
 ---
 Jiří Vilém, kníže samovladný z Lippe-Schaumburg.[^142]1842 —
 

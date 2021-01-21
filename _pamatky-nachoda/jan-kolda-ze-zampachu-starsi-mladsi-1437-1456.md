@@ -1,6 +1,6 @@
 ---
 title: Jan Kolda ze Žampachu, starší a mladší. 1437 - 1456
-order: 19
+order: 20
 ---
 Jan Kolda ze Žampachu a na Černikovicích, nepochybně z rodu pánův z Potensteina, již roku 1419. vyskytl .se mezi výstředními přívrženci strany Táborské, a při ní až do smrti setrval; neboť nalézáme jej r. 1427, při vojsku Prokopa Velikého u Tachova, r. 1428. v Slezsku, kdež jemu svěřen důležitý hrad Sobotka, r. 1434. stál při Tábořích, ač skoro veškerá šlechta vyšší i nižší sjednotila se proti nim, však udati nevíme, byl-li při bitvě Lipanské čili nic, r. pak 1436. spojen s Hradeckými, Sigmunda za krále uznati se zpěčoval. Syn jeho Jan, řečený Kolda z Žampachu, připomíná se r. 1437. co bakalář svobodných umění[^35].
 

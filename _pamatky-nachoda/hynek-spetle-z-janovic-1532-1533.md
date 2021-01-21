@@ -1,6 +1,6 @@
 ---
 title: Hynek Špetle z Janovic. 1532 - 1533
-order: 24
+order: 25
 ---
 Po smrti otce svého začátkem r. 1532. sdědil panství Náchodské, s ním také zboží Visenburské, kteréž byl p, Jan z Janovic v letech 1516 — 1519. od p. Petra Adrspacha z Dubé a z Náchoda přikoupil. O p. Hynkovi Špetlovi víme, že r. 1518. držel Hostinné, a později zboží Skalské a Adrspachské r. 1528. v zástavě měl. Bratr jeho byl Burian z Janovic, o němž radda Náchodská dne 25. máje 1532. toto svědomí vydala: …„když jest p. Burian prijel do Náchoda po smrti p. otce svého dobré paměti ten úterý po smrtelné neděli (19. března), neráčil na zámek jeti ani jíti, než pobyv v městě nevelmi dlouho, ráčil jest ten den pryč jeti.“
 

@@ -1,6 +1,6 @@
 ---
 title: Jindřich starší, vévoda Minsterberský. 1470 - 1497
-order: 22
+order: 23
 ---
 Po smrti krále Jiříka synové jeho rozdělili se o všecka panství, kteráž měli v koruně České, načež učiněn list dílčí v Poděbradech dne 9. března 1472 toho znění:
 

@@ -1,6 +1,6 @@
 ---
 title: Jan z Pernsteina a na Helfensteině. 1534 - 1544
-order: 26
+order: 27
 ---
 Dědilť všecka panství po bratru bezdětném, a tím nesmírného bohatství soustředil, nad to pak r. 1537. od císaře ujal hrabství Kladské do zástavy ve 83.464 kop gr. č.; pročež i za věku svého zván: „Jan bohatý.“ Zdědiv Náchod, ihned na této straně rozšířil panství své, když dne .6. června 1534 přikoupil tyto statky: Risenburk, Ratibořice, Bystré, Střmen, Adrspach a Skály za 5450 sß. gr. pr. od pánův Zdeňka Lva z Rožmitálu a z Blatné, a Hynka Krušiny z Lichtenburka, kteříž zboží toto měli od p. Petra Adrspacha z Dubé a z Náchoda. K panství Risenburskému tehdáž náležely: Risenburk hrad, Červenáhora hrad zbořený, Ratibořice tvrz pustá, Litoboř tvrz pustá, městečka: Žernov a Červenáhora, vsi: Olešnicc, Víska, Všeliby, Stolín pustá, Mstětín pustá, Lhota Řešetova, Ratibořice, Litoboř, Heřmaničky, Světlá, Hořičky s podacím, Lhota pod Hořičkami, Chlistov, Křižanov, Libnětov, Výrov (?) pustá.
 

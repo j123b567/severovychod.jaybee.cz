@@ -1,6 +1,6 @@
 ---
 title: Boček a Viktorin, bratří z Kunstatu. 1458 - 1469
-order: 21
+order: 22
 ---
 Nalézáme sice, že hejtmané Náchodští od samého krále byli jmenováni, a ve jménu jeho raddu městskou osazovali až do roka 1468.; kdežto roku 1470. jmenuje se kníže Jindřich; nicméně od jmenovaných bratří máme nadání, kteréž tu doslovně klademe:
 

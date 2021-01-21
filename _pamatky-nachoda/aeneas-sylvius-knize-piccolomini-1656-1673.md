@@ -1,6 +1,6 @@
 ---
 title: Aeneas Sylvius, kníže Piccolomini. 1656 - 1673
-order: 39
+order: 40
 ---
 Dle poslední vůle dne 6. července sepsané odkázal kníže Octavio manželce své Marii Benigně ročních 9000 zl. z důchodův panských, dědicem pak učiněn mladistvý Aeneas Sylvius, vnuk z bratra knížete Octavia, na jehož vychování určeno ročně, 4000 zl., poručníkem pak a vladařem ustanoven hrabě Pötting, jehož první tak řka prací bylo, obmeziti list Náchodským, r. 1652. od knížete Octavia daný, jak dosvědčuje narovnání z německého zde přiložené: 
 

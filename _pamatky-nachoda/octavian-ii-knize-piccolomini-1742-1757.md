@@ -1,6 +1,6 @@
 ---
 title: Octavian II., kníže Piccolomini. 1742 - 1757
-order: 42
+order: 43
 ---
 Kníže tento, poslední po meči z rodu Piccolomini de Arragona a neženat, hned z mládí oblíbil si stav vojenský. Sotva 17letý, pod slavným vůdcem císařským princem Eugenem Savojským co dobrovolník statečně si počínal r. 1717. u Bělohradu Srbského proti Turkům, kdež dva koně pod ním padli, a on sám sečmo do obličeje raněn; načež učiněn ritmistrem. Co plukovník vyznamenal se r. 1738. u Mehadie proti Turkům, a jmenován generálem, kdež do Náchoda přijel, a když byl zde přezimoval, dne 1. dubna 1739 opět k vojsku se odebral, a dne 1. srpna na hranicích Sedmihradských z hradby Paričanské Turky přepadl, a tábor jich s děly, stany a zavazadly dobyl; — i poctěn jest plukem pěším, nyní Čo 25. V druhé válce Pruské učiněn generállieutenantem, a r. 1753. komandujícím generálem na Moravě a v Slezsku horním. Na začátku války sedmileté povolán s vojskem do Čech, kdež přezimovav, dne 25. ledna 1757 mrtvicí raněn, umřel v Hradci Králové, stár 56 let.
 

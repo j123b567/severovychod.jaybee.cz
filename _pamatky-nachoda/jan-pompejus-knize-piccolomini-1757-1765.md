@@ -1,6 +1,6 @@
 ---
 title: Jan Pompejus, kníže Piccolomini. 1757 - 1765
-order: 43
+order: 44
 ---
 Povědíno již, že kníže Octavio II. neženat, a tudýž bezdětek, umřel dne 25. ledna 1757 v Hradci Králové, poslední rodu svého po meči; i přešlo dědictví majoratní dle ustanovení knížete Octavia I. na jinou větev spřízněnou, zejména na Jana Pompeja Piccolomini, hraběte z Cellano jinak de Villa nuova, spolu s důstojností knížecí. Dne: 23. srpna 1757 slibovali jemu na zámku Náchodském, mimo úředníků, měšťané Náchodští „poslušnost, věrnost a poddanost“, Skaličtí však, Úpičtí a obyvatelé vesničtí přidati musili i „člověčenství.“ Knížeti, vysoko v křesle sedícímu, komorník královský na to podal žezlo na znamení moci a práva. Manželka jeho Marketa Kateřina byla rozená kněžna Caraccioli. Zemřel ku konci dubna 1765.
 

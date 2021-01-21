@@ -1,6 +1,6 @@
 ---
 title: Vojtěch z Pernsteina a na Helfensteině. 1533 - 1534
-order: 25
+order: 26
 ---
 Vojtěch z Pernsteina a na Helfensteině.[^50] 1533 - 1534 
 

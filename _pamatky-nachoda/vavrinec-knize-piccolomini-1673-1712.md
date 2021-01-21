@@ -1,6 +1,6 @@
 ---
 title: Vavřinec, kníže Piccolomini, 1673 - 1712
-order: 40
+order: 41
 ---
 Po smrti Eneáše neženatého připadlo panství Náchodské mladšímu jeho bratru Vavřincovi, který však dědictví toho ujal se teprv 2. května 1679 skrze plnomocníka svého Petra. Ant. Machio de Quadiani, uvedeného od komisarův císařských, když kněžna Maria Benigna vládu postoupiti nechtěla; však i tu dle zvláštní smlouvy brala poloviční příjem z panství až do 19. unora 1684, v kterémto čase sekvestrátorem statkův Piccolominských byl rytíř Ferdinand Rudolf Dobřenský z Dobřenic a na Chvalkovicích (1681 — 1684). Roku 1685. odstěhovala se teprv kněžna Maria Benigna do Prahy, a napotom dáváno jí ročně po 4000 zl. —
 

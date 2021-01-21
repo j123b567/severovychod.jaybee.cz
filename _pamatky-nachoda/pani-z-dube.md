@@ -1,6 +1,6 @@
 ---
 title: Páni z Dubé
-order: 8
+order: 9
 ---
 Z nejpřednějších rodův panských v Čechách byly četné větve tak zvaných
 **Hronovcův**. Nejstarší oudové rodu toho dle listin byli r. 1188. bratři Načerat a Smil (snad
