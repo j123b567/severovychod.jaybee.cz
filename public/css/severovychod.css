@@ -84,6 +84,18 @@
     font-size: 2.5rem;
 }
 
+.sidebar a {
+    border-bottom: 2px solid rgba(255,255,255,.2)
+}
+
+.sidebar a:last-child {
+    border-bottom: none;
+}
+
 html {
     font-family: "PT Serif", serif;
+}
+
+.lead {
+    font-size: 0.9rem;
 }
