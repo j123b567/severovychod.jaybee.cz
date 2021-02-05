@@ -8,12 +8,12 @@ permalink:        pretty
 # Setup
 title:            Severovýchod
 description:      Přepis několika starších dokumentů z regionální historie severovýchodních Čech, které by mohly nezaslouženě upadnout v&nbsp;zapomnění.
-url:              https://severovychod.jaybee.cz/
+url:              https://severovychod.jaybee.cz
 baseurl:
 
 author:
   name:           'Pavel'
-  url:            https://severovychod.jaybee.cz/
+  url:            https://severovychod.jaybee.cz
 
 repository:       j123b567/j123b567.github.io
 
