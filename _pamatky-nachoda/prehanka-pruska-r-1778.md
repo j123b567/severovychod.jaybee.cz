@@ -34,17 +34,21 @@ Zvolna hojily se rány válečné; obec majíc 25.000 zl. dluhu, uvedena do veli
 
 **Škody r. 1778. učiněny od nepřátel v běhu šesti neděl; součtěny v listopadu**
 
-| **Náchod** |	Vypaseno obilí, co se mohlo nakliditi korců	|||| sena vypaseno	| lnu setého	| lesů vymýtěno	| v sadech	| v domích pobráno	| Součet škody v penězích	| Na to náhrada |
-|		|pšen.	|žita	|ječm.	|ovsa	|voz.	|korc.	|korc.	|strom	|zl.	|zl.	|zl. |
-|Obec		|24	|32	|207	|79	|40	|„	|34	|33	|6220	|12561	|5074 |
-|Měšťané	|108	|2415	|2355	|1245	|204	|16	|10	|240	|22502	|44086	| |
-|Staré Město	|10	|648	|328	|402	|91	|6	|11	|140	|7661	|12965	|985 |
-|Bílovec	|51	|267	|187	|716	|121	|10	|„	|„	|3667	|9734	|881 |
-|Poříčí malé	|16	|352	|52	|374	|42	|4	|„	|„	|1335	|4142	|415 |
-|Čermná dvůr	|„	|59	|„	|172	|12	|4	|„	|„	|199	|970	|135 |
-|Čermná ves	|„	|24	|„	|37	|9	|„	|„	|„	|209	|526	| |
-|Součet	|209	|4446	|3129	|3025	|520	|40	|55[^128]	|413	|41793	|84984[^129]	|7490 |
-							 			 	
+<div markdown="1" class="table-responsive">
+
+| **Náchod**    | Vypaseno obilí, co se mohlo nakliditi korců    |||| sena vypaseno | lnu setého| lesů vymýtěno | v sadech  | v domích pobráno  | Součet škody v penězích   | Na to náhrada |
+|               |pšen.      |žita       |ječm.      |ovsa           |voz.           |korc.      |korc.          |strom      |zl.                |zl.                        |zl.            |
+|Obec           |24         |32         |207        |79             |40             |„          |34             |33         |6220               |12561                      |5074           |
+|Měšťané        |108        |2415       |2355       |1245           |204            |16         |10             |240        |22502              |44086                      |               |
+|Staré Město    |10         |648        |328        |402            |91             |6          |11             |140        |7661               |12965                      |985            |
+|Bílovec        |51         |267        |187        |716            |121            |10         |„              |„          |3667               |9734                       |881            |
+|Poříčí malé    |16         |352        |52         |374            |42             |4          |„              |„          |1335               |4142                       |415            |
+|Čermná dvůr    |„          |59         |„          |172            |12             |4          |„              |„          |199                |970                        |135            |
+|Čermná ves     |„          |24         |„          |37             |9              |„          |„              |„          |209                |526                        |               |
+|Součet         |209        |4446       |3129       |3025           |520            |40         |55[^128]       |413        |41793              |84984[^129]                |7490           |
+
+</div>
+
 Po 14 tiletém panování, slavném i památném, umřela císařovna Maria Teresie, dobré paměti, dne 29. listopadu 1780, a vláda přešla v ruce císaře Josefa II., který neunaveně pracoval o napravení všelikých nedostatků, sám na své oči o všem hledě se přesvědčiti, a proto trvá v živé paměti lidu. Dokonal běh života svého dne 20. unora 1790, za nástupce maje bratra svého Leopolda II.
 
 -------------------
