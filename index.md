@@ -14,3 +14,6 @@ Zatím to jsou:
 [Josef Myslimír Ludvík: Památky hradu, města a panství Náchoda, i vlastníkův jeho.]({{ site.baseurl }}/pamatky-nachoda/)
   
 [Josef Myslimír Ludvík: Myslimír, po horách krkonošských putující]({{ site.baseurl }}/myslimir-po-horach-krkonosskych-putujici/)
+
+[Josef Myslimír Ludvík: Bašta, skalné strmiště v Saské Helvecii.]({{ site.baseurl }}/basta-skalne-strmiste-v-saske-helvecii/)
+
